@@ -1,5 +1,4 @@
 # INEGI-Desktop-WEB
-
 Censo de población INEGI Requerimientos de desarrollo Desktop, trabajo y exposición en equipos. (Entrega y exposición el martes 28 de marzo del 2023 19:00 p.m.) Parcial 2 El proyecto se evaluará con exposición y pruebas de la aplicación de software, que consiste en el desarrollo Desktop, denominada "Censo de población INEGI". Se trabajará en equipos, ya establecidos en clase previamente, con responsabilidades individuales. El proyecto se entregará en digital y se expondrá al profesor de forma presencial, para con esto analizar las estrategias de desarrollo empleadas. Los puntos de revisión para determinar calificación Parcial 2 de la aplicación serán:
 
 1-Totalmente Orientado a Objetos. (-30)
